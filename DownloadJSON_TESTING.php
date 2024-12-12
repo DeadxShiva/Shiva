@@ -1,4 +1,4 @@
 {
-  "version": "1",
+  "version": "2",
   "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libGVoicePlugin.so"
 }
