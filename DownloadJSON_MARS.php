@@ -1,4 +1,4 @@
 {
   "version": "0.01",
-  "link": "https://jaatmodz.online/libhhhhh.so"
+  "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libGVoicePlugin.so"
 }
