@@ -1,4 +1,4 @@
 {
-  "version": "0.06",
-  "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libFlashClanv1.so"
+  "version": "0.07",
+  "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libFlash6hrAdded.so"
 }
