@@ -1,4 +1,4 @@
 {
-  "version": "0.09",
+  "version": "0.11",
   "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libFlash6hrAdded.so"
 }
