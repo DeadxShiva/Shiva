@@ -1,4 +1,4 @@
 {
-  "version": "0.01",
-  "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libANTIBANLDX.so"
+  "version": "0.14",
+  "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libFLASHESP.so"
 }
