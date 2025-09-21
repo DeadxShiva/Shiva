@@ -1,4 +1,4 @@
 {
-  "version": "7.00",
+  "version": "8.00",
   "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libpubgm.so"
 }
