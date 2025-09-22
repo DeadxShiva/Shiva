@@ -1,4 +1,4 @@
 {
-  "version": "17.02",
+  "version": "17.03",
   "link": "https://raw.githubusercontent.com/DeadxShiva/Shiva/main/libpubgm.so"
 }
